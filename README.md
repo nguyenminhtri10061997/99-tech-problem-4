@@ -20,7 +20,7 @@
     return arr[0] || 0;
   }
 
-  // Complexity: O(1) => in this case it not 
+  // Complexity: O(1)
   // In problems where a formula is not available and the calculation is complex, this approach can be a good choice
   // pros: Consumes extra memory.
   const sumLookup = new Map();
